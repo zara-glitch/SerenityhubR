@@ -1,0 +1,6 @@
+{
+  "name": "Serenity Hub",
+  "description": "An AI-powered Progressive Web Application for stress self-assessment, emotional wellbeing tracking, and wellness companionship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
